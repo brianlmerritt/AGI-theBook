@@ -18,8 +18,8 @@ const World = () => (
       <TitleText
         title={
           <>
-            Track friends around you and invite them to play together in the
-            same world
+            AGI:theBook<br/>
+            Set in a universe where everyone and everything is connected
           </>
         }
         textStyles="text-center"
@@ -29,7 +29,7 @@ const World = () => (
         className="relative mt-[68px] flex w-full h-[550px]"
       >
         <Image
-          src="/map.png"
+          src="/earth_circuit_board.png"
           width={1000}
           height={1000}
           priority={true}

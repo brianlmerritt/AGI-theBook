@@ -3,8 +3,8 @@ import "./styles/globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Metaversus",
-  description: "A Metaverse Landing Page",
+  title: "AGI:theBook",
+  description: "The newest AI book by Brian.L.Merritt",
 };
 
 export default function RootLayout({

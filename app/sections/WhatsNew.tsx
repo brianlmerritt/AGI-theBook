@@ -32,7 +32,7 @@ const WhatsNew = () => (
         className="flex-1 flexCenter"
       >
         <Image
-          src="/whats-new.png"
+          src="/tamagotchi_wristband_circle_2.png"
           width={1000}
           height={1000}
           priority={true}

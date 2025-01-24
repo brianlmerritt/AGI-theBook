@@ -16,25 +16,21 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className="innerWidth mx-auto flexCenter flex-col"
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="AGI:theBook - Summary" textStyles="text-center text-white text-5xl" />
 
       <motion.p
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it&lsquo;is really real, you can feel what you feel in this
-        metaverse world, because this is really the&nbsp;
-        <span className="font-extrabold text-white">
-          madness of the metaverse
-        </span>
-        &nbsp; of today, using only&nbsp;
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let&lsquo;s&nbsp;
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        Tech giant Agentic Solutions takes over New Yuga, searching for missing
+        AI guru Tej and his breakthrough artificial general intelligence 
+        (<span className="font-extrabold text-white">AGI</span>). 
+        The investigation team discovers something far more extraordinary than 
+        corporate secrets. 
+        <br/><i>- Indian Metaphysical Insights</i>
+        <br/><i>- Bio-integrated Evolutionary AI</i>
+        <br/><i>- Code meets Consciousness</i>
+        <br/><i>- Nothing is quite what it seems...</i>
       </motion.p>
       <motion.div variants={fadeIn("up", "tween", 0.3, 1)}>
         <Link href="#explore">

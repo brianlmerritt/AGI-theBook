@@ -16,16 +16,18 @@ const Hero = () => (
     >
       <div className="flexCenter flex-col relative z-10">
         <motion.h1 variants={textVariant(1.1)} className="heroHeading">
-          Metaverse
+          AGI:theBook
         </motion.h1>
-        <motion.div
-          variants={textVariant(1.2)}
-          className="flex flex-row justify-center items-center"
-        >
-          <h1 className="heroHeading">Ma</h1>
-          <div className="heroDText" />
-          <h1 className="heroHeading">ness</h1>
-        </motion.div>
+        {/*
+          <motion.div
+            variants={textVariant(1.2)}
+            className="flex flex-row justify-center items-center"
+          >
+            <h1 className="heroHeading">Ma</h1>
+            <div className="heroDText" />
+            <h1 className="heroHeading">ness</h1>
+          </motion.div>
+        */}
       </div>
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
@@ -33,7 +35,7 @@ const Hero = () => (
       >
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
         <Image
-          src="/cover.png"
+          src="/agi-thebook.png"
           width={1000}
           height={1000}
           alt="cover"

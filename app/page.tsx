@@ -14,24 +14,40 @@ export default function Home() {
   return (
     <main className="bg-primary-black overflow-hidden">
       <Navbar />
-      <Hero />
-      <section className="relative">
-        <About />
-        <div className="gradient-03 z-0" />
-        <Explore />
-      </section>
-      <section className="relative">
-        <GetStarted />
-        <div className="gradient-03 z-0" />
-        <WhatsNew />
-      </section>
-      <World />
-      <section className="relative">
-        <Insights />
-        <div className="gradient-03 z-0" />
-        <Feedback />
-      </section>
-      <Footer />
+      <div className="pt-[100px]">
+        <section id="hero">
+          <Hero />
+        </section>
+        <section id="about" className="relative">
+          <About />
+          <div className="gradient-03 z-0" />
+          <div id="explore">
+            <Explore />
+          </div>
+        </section>
+        <section className="relative">
+          <div id="get-started">
+            <GetStarted />
+          </div>
+          <div className="gradient-03 z-0" />
+          <div id="whats-new">
+            <WhatsNew />
+          </div>
+        </section>
+        <div id="world">
+          <World />
+        </div>
+        <section className="relative">
+          <div id="insights">
+            <Insights />
+          </div>
+          <div className="gradient-03 z-0" />
+          <div id="feedback">
+            <Feedback />
+          </div>
+        </section>
+        <Footer />
+      </div>
     </main>
   );
 }

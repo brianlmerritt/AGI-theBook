@@ -1,28 +1,38 @@
+export const navLinks = [
+  { label: 'About', href: '#about' },
+  { label: 'Explore', href: '#explore' },
+  { label: 'Get Started', href: '#get-started' },
+  { label: "What's New", href: '#whats-new' },
+  { label: 'World', href: '#world' },
+  { label: 'Insights', href: '#insights' },
+  { label: 'Feedback', href: '#feedback' },
+] as const;
+
 export const exploreWorlds = [
   {
     id: "world-1",
-    imgUrl: "/planet-01.png",
-    title: "The Hogwarts",
+    imgUrl: "/YanDarnNewYugaHQ.png",
+    title: "Yan Darn - CTO of Agentic Solutions",
   },
   {
     id: "world-2",
-    imgUrl: "/planet-02.png",
-    title: "The Upside Down",
+    imgUrl: "/TejGuruCrystalUniverse700.png",
+    title: "Tej - New Yuga Guru (missing)",
   },
   {
     id: "world-3",
-    imgUrl: "/planet-03.png",
-    title: "Kadirojo Permai",
+    imgUrl: "/Wizz_Projection_Room.png",
+    title: "WIZZ - AI Showman",
   },
   {
     id: "world-4",
-    imgUrl: "/planet-04.png",
-    title: "Paradise Island",
+    imgUrl: "/AshFaradayCage.png",
+    title: "Ash - Advanced Software Engineer",
   },
   {
     id: "world-5",
-    imgUrl: "/planet-05.png",
-    title: "Hawkins Labs",
+    imgUrl: "/Rei_Viewing_Shiva.png",
+    title: "Rei - Philosopher, Symbol Decoder",
   },
 ];
 
