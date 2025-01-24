@@ -1,16 +1,16 @@
-# Project Metaversus - A Metaverse UI/UX Landing Page
+# AGI:theBook - An AI Novel by Brian.L.Merritt
 
-![image](https://github.com/omunite215/Project_Metaverse/assets/78680563/8a8bd774-28af-4daa-9efc-632a8b7e8f5a)
+![image](https://github.com/brianlmerritt/AGI-theBook/public/agi-thebook.png)
 
 
-This was made using Next.JS JavaScript. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/ugCN_gynFYw?feature=shared). Now it is made on using TypeScript.
+This website was made Om Patel using Next.JS JavaScript. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/ugCN_gynFYw?feature=shared). Now it is made on using TypeScript.
 Features added other than Tutorial:-
 - Upgraded from Node.JS to Bun.JS (A Faster JavaScript Runtime).
 - Upgraded from JavaScript to TypeScript.
 - Added Fluid Animations using Framer-Motion.
 - Removed unused CSS and Optimized Code.
 
-### Link to Figma File:
+### Link to originalFigma File:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,13 +20,15 @@ Features added other than Tutorial:-
   </a>
 </p>
 
-A website which is a Landing Page of a Metaverse based Business.
+This was a Landing Page of a Metaverse based Business Website.
 
-### The project is hosted on Vercel : [Metaversus](https://project-metaverse-beta.vercel.app/)
+The style was very modern and futuristic - perfect for my new AI novel - AGI:theBook!
+
+### Om's original project is hosted on Vercel : [Metaversus](https://project-metaverse-beta.vercel.app/)
 
 ## :star: Give A Star
 
-You can also give this repository a star to show more people and they can use this repository.
+You can also give a star to show more people that they can use [his repository](https://github.com/omunite215/Project_Metaverse).
 
 # Getting Started
 
@@ -103,6 +105,7 @@ Specializations:
 
 ## 🗒️ Authors
 - Om Patel
+- Brian.L.Merritt
 
 <p align="left">
   <a href="https://skillicons.dev">
