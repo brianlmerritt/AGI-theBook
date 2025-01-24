@@ -1,6 +1,6 @@
 # AGI:theBook - An AI Novel by Brian.L.Merritt
 
-![image](https://github.com/brianlmerritt/AGI-theBook/tree/main/public/agi-thebook.png)
+![image](https://raw.githubusercontent.com/brianlmerritt/AGI-theBook/main/public/agi-thebook.png)
 
 
 This website was made Om Patel using Next.JS JavaScript. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/ugCN_gynFYw?feature=shared). Now it is made on using TypeScript.
