@@ -28,7 +28,7 @@ const About = () => (
         The investigation team discovers something far more extraordinary than 
         corporate secrets. 
         <br/><i>- Indian Metaphysical Insights</i>
-        <br/><i>- Bio-integrated Evolutionary AI</i>
+        <br/><i>- Bio-Integrated Evolutionary AI</i>
         <br/><i>- Code meets Consciousness</i>
         <br/><i>- Nothing is quite what it seems...</i>
       </motion.p>

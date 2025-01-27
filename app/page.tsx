@@ -25,7 +25,7 @@ export default function Home() {
             <Explore />
           </div>
         </section>
-        <section className="relative">
+        {/*<section className="relative">
           <div id="get-started">
             <GetStarted />
           </div>
@@ -33,7 +33,7 @@ export default function Home() {
           <div id="whats-new">
             <WhatsNew />
           </div>
-        </section>
+        </section>*/}
         <div id="world">
           <World />
         </div>

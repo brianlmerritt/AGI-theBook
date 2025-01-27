@@ -3,14 +3,14 @@
 ![image](https://raw.githubusercontent.com/brianlmerritt/AGI-theBook/main/public/agi-thebook.png)
 
 
-This website was made Om Patel using Next.JS JavaScript. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/ugCN_gynFYw?feature=shared). Now it is made on using TypeScript.
+This website was made by Om Patel using Next.JS JavaScript. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/ugCN_gynFYw?feature=shared). Now it is made on using TypeScript.
 Features added other than Tutorial:-
 - Upgraded from Node.JS to Bun.JS (A Faster JavaScript Runtime).
 - Upgraded from JavaScript to TypeScript.
 - Added Fluid Animations using Framer-Motion.
 - Removed unused CSS and Optimized Code.
 
-### Link to originalFigma File:
+### Link to his originalFigma File:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -73,7 +73,7 @@ The website should now be up and running on http://localhost:3000.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma)](https://skillicons.dev)
 
-## 🚀 About Me
+## 🚀 About Om Patel
 Specializations:
 - UI/UX Design.
 - Web Development
