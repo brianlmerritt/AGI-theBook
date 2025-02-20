@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { useParams } from "next/navigation";
+import ReactMarkdown from 'react-markdown';
 import { blogPosts } from "../../constants";
 import { fadeIn, staggerContainer } from "../../utils/motion";
 import { BlogCard, Navbar, TypingText } from "../../components";
@@ -50,8 +51,10 @@ const InsightPost = () => {
                     <span>{post.date}</span> • <span>{post.author}</span>
                   </div>
                   
-                  <div className="mt-8 text-secondary-white prose prose-invert whitespace-pre-wrap">
-                    {post.content}
+                  <div className="mt-8 text-secondary-white">
+                    <ReactMarkdown className="prose prose-invert prose-headings:text-white prose-a:text-blue-500">
+                      {post.content}
+                    </ReactMarkdown>
                   </div>
                 </div>
               </motion.div>
